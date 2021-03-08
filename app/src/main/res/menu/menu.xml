@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".bmiMainActivity">
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_about_me"
+        android:icon="@drawable/about_me"
+        android:title="@string/about_me_icon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_restore"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/restore_icon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/save_icon"
+        android:title="@string/save_icon"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="mass_kg">Mass [lb/kg]</string>
+    <string name="height_m">Height [in/m]</string>
+    <string name="count">COUNT</string>
+    <string name="result">RESULT</string>
+    <string name="back_button">Back to main page</string>
+    <string name="about_me">About the author</string>
+    <string name="about_me_icon">About me</string>
+    <string name="save_icon">Save</string>
+    <string name="restore_icon">Restore</string>
+    <string name="about_me_text">Karolina Tomaszewska, 23 yo, Wrocław</string>
+    <string name="change_metrics">Change metrics [lbs/kg]</string>
+</resources>
